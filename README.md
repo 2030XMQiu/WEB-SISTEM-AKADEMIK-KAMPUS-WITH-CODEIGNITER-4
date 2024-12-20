@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-   Recipe App
+   Sistem Akademik Kampus
 </div>
 
 # DM me on Instagram For Database
