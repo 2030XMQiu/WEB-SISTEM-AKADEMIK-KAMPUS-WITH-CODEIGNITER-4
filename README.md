@@ -38,17 +38,20 @@
     <tr>
         <th style="text-align:center">
             <a href="">
-                <img src="https://github.com/2030XMQiu/WEB-SISTEM-AKADEMIK-KAMPUS-WITH-CODEIGNITER-4/blob/main/Screenshot%202024-12-20%20213036.png" height="300" width="600" />
-            </a>
-        </th>
-        <th style="text-align:center">
-            <a href="#">
-                <img src="https://github.com/2030XMQiu/WEB-SISTEM-AKADEMIK-KAMPUS-WITH-CODEIGNITER-4/blob/main/Screenshot%202024-12-20%20213404.png" height="300" width="600" />
+                <img src="https://github.com/2030XMQiu/WEB-SISTEM-AKADEMIK-KAMPUS-WITH-CODEIGNITER-4/blob/main/Screenshot%202024-12-20%20213036.png" height="300" width="500" />
             </a>
         </th>
     </tr>
 </table>
-
+<table align="center">
+    <tr>
+        <th style="text-align:center">
+            <a href="#">
+                <img src="https://github.com/2030XMQiu/WEB-SISTEM-AKADEMIK-KAMPUS-WITH-CODEIGNITER-4/blob/main/Screenshot%202024-12-20%20213404.png" height="300" width="500" />
+            </a>
+        </th>
+    </tr>
+</table>
 # CodeIgniter 4 Framework
 
 ## What is CodeIgniter?
